@@ -1,5 +1,5 @@
 # 下載套件
-composer require league/climate
+composer update
 
 # 下載csv檔案
 php download.php
